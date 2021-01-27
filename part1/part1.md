@@ -34,9 +34,9 @@
 18. Code found in part1-question18.js
 19. The result will be [ 6, 8, 10 ]. I arrived at this result by......EXPLAIN
 20. Code found in part1-question20,js
-21. The output of this code is: 
-    1
-    4
-    3
-    2
+21. The output of this code is: \
+    1 \
+    4 \
+    3 \
+    2 
 
