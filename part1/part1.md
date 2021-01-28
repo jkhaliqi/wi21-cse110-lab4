@@ -31,9 +31,9 @@
    F. true, since Boolean(2) becomes a boolean value of true and it is getting strictly compared to another boolean type that is true it will return true.
 16. The difference between '==' and '===' is that the '===' operator checks the equality without type conversion. While '==' will type convert and then check equality. That is why '2' == 2 is true but '2'===2 is false 
 17. How are you? will get printed because the "else if (2)" statement will evaluate to true. This is because when doing "2==true" the true becomes a 1 so 1 and 2 are not equal so that condition will get skipped. Then the if (2) will be true because truthy values are pretty much any number other than 0. 
-18. Code found in part1-question18.js
+18. Code found in part1-question18.js.
 19. The result will be [ 6, 8, 10 ]. I arrived at this result by......EXPLAIN
-20. Code found in part1-question20,js
+20. Code found in part1-question20,js.
 21. The output of this code is: \
     1 \
     4 \
