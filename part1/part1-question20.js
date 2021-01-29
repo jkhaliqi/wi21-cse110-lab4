@@ -1,5 +1,9 @@
 //Should print out the time every second...Complete it
 
-let d = new Date();
-let time = d.toLocaleTimeString();
-console.log(time);
+function time() {
+    let d = new Date();
+    let time = d.toLocaleTimeString();
+    console.log(time);
+}
+
+setInterval(time, 1000);
