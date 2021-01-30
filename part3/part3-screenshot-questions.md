@@ -3,9 +3,9 @@ Questions from screenshot debug:
 - The solution was to change the addition on line 9 inside the part1.js from just num1 + num2 to parseInt(num1) + parseInt(num2). This would then chenge the addition from a concatenation of two strings to now an addition of two ints, and would return a number.
 - ScreenShots attached:
   - List Breakpoints Screenshot:
-<img src="breakpoints.png" width="500px" alt="breakpoints" />
+    - <img src="breakpoints.png" width="1000px" alt="breakpoints" />
   - Watch expressions for value of num1 and num2 and also the datatype of result
-<img src="watch.png" alt="watch" />
+    - <img src="watch.png" alt="watch" />
   - Solution fix
-<img src="fix-solution.png" width="500px" alt="fix-solutions" />
+<img src="fix-solution.png" width="1000px" alt="fix-solutions" />
 
