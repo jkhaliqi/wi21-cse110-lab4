@@ -5,4 +5,4 @@ Questions from screenshot debug:
 ![watch](./part3/fix-solution.png =100x20)
 ![s](breakpoints.png)
 ![watch](watch.png =20)
-<img src="watch.png" width="200px" alt="watch" />
+<img src="watch.png" alt="watch" />
