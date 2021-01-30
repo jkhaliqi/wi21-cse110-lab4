@@ -32,7 +32,7 @@
 16. The difference between '==' and '===' is that the '===' operator checks the equality without type conversion. While '==' will type convert and then check equality. That is why '2' == 2 is true but '2'===2 is false 
 17. How are you? will get printed because the "else if (2)" statement will evaluate to true. This is because when doing "2==true" the true becomes a 1 so 1 and 2 are not equal so that condition will get skipped. Then the if (2) will be true because truthy values are pretty much any number other than 0. 
 18. Code found in part1-question18.js.
-19. The result will be [ 6, 8, 10 ]. I arrived at this result by......EXPLAIN
+19. The result will be [ 6, 8, 10 ]. I arrived at this result because the code will start by going into modifyArray with the array [1,2,3] and the dosomething as the callback parameter. Next it will make a newArr and have it empty and also enter the for loop. Inside the for loop the doSomething function is called and this is where the first element inside the array with i being 0 will get array[0] which is 1 and  will get added to 2 and returned back to the for loop. Now this number is 3 and will get multiplied by 2 becoming 6 and it is pushed into the newArray. Now the value of i changes to 1 and the same process happens for 2. This is repeated until all the array elements get changed and pushed into the newArr, and this newArr is returned with values [ 6, 8, 10 ].    
 20. Code found in part1-question20,js.
 21. The output of this code is: \
     1 \
