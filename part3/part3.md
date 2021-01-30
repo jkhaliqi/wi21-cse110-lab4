@@ -1,3 +1,4 @@
+The Screenshots and answer for those questions are found in part3-screenshot-questions.md file
 1. The name of the new file is citylots.json
 2. The part2.js file intiated the download of the new file
 3. The citylots file size is 11.7 MB.
