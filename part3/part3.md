@@ -6,4 +6,4 @@
 6. In the response the server it came from was Apache
 7. The file was last modified Tue, 26 Jan 2021 22:14:13 GMT
 8. The content type of the file was application/json
-9. 
+9. The fetchData() method
