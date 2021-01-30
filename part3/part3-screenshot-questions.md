@@ -3,6 +3,5 @@ Questions from screenshot debug:
 - The solution was to change the addition on line 9 inside the part1.js from just num1 + num2 to parseInt(num1) + parseInt(num2). This would then chenge the addition from a concatenation of two strings to now an addition of two ints, and would return a number.
 - ScreenShots attached:
 ![watch](./part3/fix-solution.png =100x20)
-![s](breakpoints.png)
-![watch](watch.png =20)
+<img src="breakpoints.png" width="200px" alt="breakpoints" />
 <img src="watch.png" alt="watch" />
